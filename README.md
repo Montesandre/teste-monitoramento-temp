@@ -16,13 +16,11 @@ Este projeto simula um sistema de monitoramento de temperatura para equipamentos
 2. Compile o código C++: 
   ```bash
 g++ code-temp.cpp -o monitoramento
-./monitoramento   ```
-
+./monitoramento```
 
 3. Execute o programa:
    ```bash
-   ./teste-monitoramento-temp
-   ```
+   ./teste-monitoramento-temp  ```
 
 ## 🛠️ Tecnologias Utilizadas
 - C++
