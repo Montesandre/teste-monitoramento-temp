@@ -13,9 +13,11 @@ Este projeto simula um sistema de monitoramento de temperatura para equipamentos
    git clone https://github.com/Montesandre/teste-monitoramento-temp.git
    cd teste-monitoramento-temp
    ```
-2. Compile o código C++:   ```bash
+2. Compile o código C++: 
+  ```bash
 g++ code-temp.cpp -o monitoramento
 ./monitoramento   ```
+
 
 3. Execute o programa:
    ```bash
